@@ -1,4 +1,4 @@
-const url = "http://gitfolio-api.herokuapp.com/users"
+const url = "https://gitfolio-api.herokuapp.com/users"
 
 const linkPreviewAPI = "https://api.linkpreview.net/?key=5b2a325bda205eafd3244c6ce9ed78d27d31f04c06ffc&q="
 class Adapter {
